@@ -1,0 +1,42 @@
+.foto-perfil{
+    border-radius: 100;
+    max-width: 200px; 
+    border: 1px solid black;
+    margin-right: 520px;
+   
+    
+}
+
+body{
+    background-color: #cfa9a9;
+   
+    
+} 
+
+
+.rodape{
+    text-align: center;
+    color: white;
+    border-top: 5px rgba(16, 77, 72, 0.924);  
+    background-color: rgba(16, 77, 72, 0.924);  
+    width:100%;
+    padding: 10px;
+    
+   
+  
+   
+ 
+   
+   
+}
+
+.formulario{
+    text-align: center;
+    color: white;
+    border-top: 5px rgba(164, 189, 187, 0.924);  
+    background-color: rgba(164, 189, 187, 0.924); 
+    right:auto;
+    margin-left: auto;
+
+
+}

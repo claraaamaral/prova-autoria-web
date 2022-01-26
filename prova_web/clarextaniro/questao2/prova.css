@@ -1,0 +1,27 @@
+
+.rodape{
+    text-align: center;
+    color: white;
+    background-color: rgba(16, 77, 72, 0.924);  
+    width:100%;
+    padding:0 15px 15px 15px;
+   
+    
+   
+  
+   
+ 
+   
+   
+}
+
+.formulario{
+    text-align: center;
+    color: white;
+    border-top: 5px rgba(164, 189, 187, 0.924);  
+    background-color: rgba(164, 189, 187, 0.924); 
+    right:auto;
+    margin-left: auto;
+
+
+}
